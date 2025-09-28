@@ -33,9 +33,9 @@ MonoBehaviour:
   m_Settings:
     m_SettingsList:
       m_List:
-      - rid: 26213009545494528
-      - rid: 26213009545494529
-      - rid: 26213009545494530
+      - rid: 26213009682595904
+      - rid: 26213009682595905
+      - rid: 26213009682595906
     m_RuntimeSettings:
       m_List: []
   m_AssetVersion: 8
@@ -61,7 +61,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 26213009545494528
+    - rid: 26213009682595904
       type: {class: PostProcessData/ShaderResources, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         stopNanPS: {fileID: 4800000, guid: 1121bb4e615ca3c48b214e79e841e823, type: 3}
@@ -81,12 +81,12 @@ MonoBehaviour:
         uberPostPS: {fileID: 4800000, guid: e7857e9d0c934dc4f83f270f8447b006, type: 3}
         finalPostPassPS: {fileID: 4800000, guid: c49e63ed1bbcb334780a3bd19dfed403, type: 3}
         m_ShaderResourcesVersion: 0
-    - rid: 26213009545494529
+    - rid: 26213009682595905
       type: {class: ScreenSpaceAmbientOcclusionPersistentResources, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Shader: {fileID: 4800000, guid: 0849e84e3d62649e8882e9d6f056a017, type: 3}
         m_Version: 0
-    - rid: 26213009545494530
+    - rid: 26213009682595906
       type: {class: UniversalRenderPipelineEditorAssets, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_DefaultSettingsVolumeProfile: {fileID: 0}
